@@ -1,0 +1,15 @@
+com\ym\user\api\dto\UserLoginRequest.class
+com\ym\user\api\dto\UserRegisterResponse.class
+com\ym\user\api\dto\UserRegisterRequest.class
+com\ym\user\api\dto\UserQueryResponse.class
+com\ym\user\api\IUserCoreService.class
+com\ym\user\api\dto\CheckAuthRequest.class
+com\ym\user\api\abs\AbstractRequest.class
+com\ym\user\api\dto\UserLoginResponse.class
+com\ym\user\api\constants\ResponseCodeEnum.class
+com\ym\user\api\dto\UserQueryRequest.class
+com\ym\user\api\abs\AbstractResponse.class
+com\ym\user\api\constants\Constants.class
+com\ym\user\api\App.class
+com\ym\user\api\dto\CheckAuthResponse.class
+com\ym\user\api\IUserQueryService.class
